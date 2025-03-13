@@ -12,9 +12,6 @@
 4. [Configuración](#configuración)
 5. [Uso](#uso)
 6. [Despliegue](#despliegue)
-7. [Capturas de Pantalla](#capturas-de-pantalla)
-8. [Contribución](#contribución)
-9. [Licencia](#licencia)
 
 ---
 
